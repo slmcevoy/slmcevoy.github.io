@@ -1,0 +1,69 @@
+
+.starter-template {
+  padding: 0rem 1.5rem;
+  text-align: center;
+}
+body {
+	font-family: 'Average', sans-serif;
+padding-top: 5rem;
+}
+.resume {
+	text-align: left;
+	padding: 3rem 0;
+}
+h1, h2 {
+	color: #495057;
+}
+.resume h2 {
+	margin-bottom: 1.25rem;
+	position: relative;
+	margin-left: 75px
+}
+.resume h5 {
+	/*color: #721c44;*/
+	color: #903e64;
+	margin-bottom: 0;
+}
+.mediaicons a {
+	display: inline-block;
+	margin-right: 20px;
+	color: black;
+}
+.lead, dt {
+	color: #721c44;
+}
+.gradient {
+	background-image: linear-gradient(#fff, #f7f4e5);
+
+}
+.header-padding {
+	margin-top: 2rem;
+}
+.header {
+	text-align: center;
+    display: inline-block;
+    max-width: 100%;
+    zoom: 1;
+}
+.header-content:after, .header-content:before {
+    background: #49505761;
+}
+.header-content:before {
+    right: 100%;
+}
+.header-content:after {
+    left: 100%;
+}
+.header-content:after, .header-content:before {
+    content: " ";
+    display: inline-block;
+    height: 2px;
+    margin: 0 10px;
+    position: absolute;
+    top: 50%;
+    width: 65px;
+    zoom: 1;
+}
+.uconn img {
+	display: block;
+}
